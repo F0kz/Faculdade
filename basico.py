@@ -1,0 +1,1 @@
+print("olá, sou basico")
